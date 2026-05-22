@@ -240,6 +240,9 @@ Live Azure infrastructure. Post-MFA. Zero alerts. Connection looked completely n
 > *Since this case was below the bar for immediate servicing, it is not eligible for bounty, and no CVE will be issued. MSRC will not be tracking this issue further."*
 >
 > — Eli, Microsoft Security Response Center
+
+<img width="1906" height="970" alt="image" src="https://github.com/user-attachments/assets/1ec990ba-9228-45ec-816c-fc0559f7903e" />
+
  
 Running Python as a normal Windows user — via phishing, a malicious VS Code marketplace extension, or 5 minutes of physical access — does not meet their bar for fixing a 33.9M-download extension that executes unsigned scripts on Azure VMs post-MFA.
  
@@ -269,9 +272,6 @@ No patch exists. Until one does:
 | May 13, 2026 | MSRC opened case VULN-187877 / Case 116933 |
 | May 22, 2026 | MSRC closed case — no CVE, no fix, no bounty |
 | May 23, 2026 | Full public disclosure |
-
-<img width="1906" height="970" alt="image" src="https://github.com/user-attachments/assets/1ec990ba-9228-45ec-816c-fc0559f7903e" />
-
  
 ---
  
