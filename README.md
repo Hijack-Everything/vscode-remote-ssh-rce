@@ -5,6 +5,8 @@
 > — Microsoft MSRC, closing case VULN-187877 with no CVE, no fix, no bounty.
  
 ---
+
+*Detailed Write-Up* : [Medium](https://medium.com/@hijack-everything/post-compromise-rce-in-vs-code-remote-ssh-turning-developer-access-into-cloud-compromise-048eed10ad44)
  
 ## 76,788,374 Affected Installs
  
